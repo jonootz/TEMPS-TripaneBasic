@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/A_Introduction Topics/Welcome.htm"
+  MasterToc="/Project/TOCs/OnlineOutput.fltoc"
+  ConditionTagExpression="include[&quot;General.Audience A&quot;]exclude[&quot;General.Audience B&quot;]"
+  InsertMOTW="true"
+  AliasFile="/Project/Advanced/AliasFile.flali"
+  EnableSitemap="false"
+  IncludeStopWords="true"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  Skin="/Project/Skins/HTML5 - Tripane.flskn"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"></CatapultTarget>
